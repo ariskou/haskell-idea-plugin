@@ -16,4 +16,5 @@ public object HaskellIcons {
     public val BIG: Icon = IconLoader.getIcon("/org/jetbrains/haskell/icons/haskell.png")
     public val UPDATE: Icon = IconLoader.getIcon("/org/jetbrains/haskell/icons/update.png")
     public val REPL: Icon = IconLoader.getIcon("/org/jetbrains/haskell/icons/repl.png")
+    public val HAMLET: Icon = IconLoader.findIcon("/org/jetbrains/haskell/icons/hamlet16.png")
 }
